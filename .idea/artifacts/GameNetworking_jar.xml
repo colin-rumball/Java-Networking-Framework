@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="GameNetworking:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/GameNetworking_jar</output-path>
+    <root id="archive" name="GameNetworking.jar">
+      <element id="module-output" name="com.CRGames.GameNetworking" />
+    </root>
+  </artifact>
+</component>
