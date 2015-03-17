@@ -1,7 +1,7 @@
 package com.CRGames.GameNetworking;
 
 /**
- * Interface that evey game message must extend from.
+ * Interface that every game message must extend from.
  */
 public interface GameMessage
 {
